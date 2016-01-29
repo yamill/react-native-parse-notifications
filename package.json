@@ -1,0 +1,19 @@
+{
+  "name": "react-native-parse-notifications",
+  "version": "1.0.0",
+  "description": "Subscribe and send push notifications via Parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "parse",
+    "push",
+    "notifications"
+  ],
+  "author": "Yamill Vallecillo <yamill@gmail.com> (github.com/yamill)",
+  "license": "ISC"
+}
